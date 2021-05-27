@@ -1,0 +1,5847 @@
+{
+   "Afghanistan":{
+      "country":"Afghanistan",
+      "School age population":13162.48,
+      "code":"AFG",
+      "National":{
+         "Basic water service":65.63,
+         "Limited water service":12.62,
+         "No water service":21.75
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":23.56
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":25.52
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":58.15,
+         "Limited water service":17.35,
+         "No water service":24.5
+      },
+      "Secondary":{
+         "Basic water service":74.07,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Angola":{
+      "country":"Angola",
+      "School age population":12367.51,
+      "code":"AGO",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":68.47
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":81.5
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":51.76
+      }
+   },
+   "Albania":{
+      "country":"Albania",
+      "School age population":503.09,
+      "code":"ALB",
+      "National":{
+         "Basic water service":59.44,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":55.84,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":66.25,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Andorra":{
+      "country":"Andorra",
+      "School age population":18.88,
+      "code":"AND",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "United Arab Emirates":{
+      "country":"United Arab Emirates",
+      "School age population":1238.29,
+      "code":"ARE",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Argentina":{
+      "country":"Argentina",
+      "School age population":10875.04,
+      "code":"ARG",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":10.1
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.63
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":17.28
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":10.08
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Armenia":{
+      "country":"Armenia",
+      "School age population":563.84,
+      "code":"ARM",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":94.93,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Antigua and Barbuda":{
+      "country":"Antigua and Barbuda",
+      "School age population":19.67,
+      "code":"ATG",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Australia":{
+      "country":"Australia",
+      "School age population":4424.32,
+      "code":"AUS",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Azerbaijan":{
+      "country":"Azerbaijan",
+      "School age population":1848.35,
+      "code":"AZE",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Burundi":{
+      "country":"Burundi",
+      "School age population":4111.06,
+      "code":"BDI",
+      "National":{
+         "Basic water service":45.82,
+         "Limited water service":12.75,
+         "No water service":41.43
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":48.18,
+         "Limited water service":2.91,
+         "No water service":48.91
+      },
+      "Primary":{
+         "Basic water service":44.53,
+         "Limited water service":7.57,
+         "No water service":47.9
+      },
+      "Secondary":{
+         "Basic water service":52.0,
+         "Limited water service":33.46,
+         "No water service":14.54
+      }
+   },
+   "Belgium":{
+      "country":"Belgium",
+      "School age population":1963.43,
+      "code":"BEL",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Benin":{
+      "country":"Benin",
+      "School age population":4371.11,
+      "code":"BEN",
+      "National":{
+         "Basic water service":44.61,
+         "Limited water service":34.48,
+         "No water service":20.91
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":44.61,
+         "Limited water service":36.67,
+         "No water service":18.72
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":26.91
+      }
+   },
+   "Burkina Faso":{
+      "country":"Burkina Faso",
+      "School age population":8603.53,
+      "code":"BFA",
+      "National":{
+         "Basic water service":52.57,
+         "Limited water service":6.52,
+         "No water service":40.92
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":28.3
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":49.4
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":30.39
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":40.82
+      },
+      "Secondary":{
+         "Basic water service":42.12,
+         "Limited water service":13.76,
+         "No water service":44.11
+      }
+   },
+   "Bangladesh":{
+      "country":"Bangladesh",
+      "School age population":45180.69,
+      "code":"BGD",
+      "National":{
+         "Basic water service":82.17,
+         "Limited water service":9.9,
+         "No water service":7.93
+      },
+      "Urban":{
+         "Basic water service":84.72,
+         "Limited water service":12.85,
+         "No water service":2.43
+      },
+      "Rural":{
+         "Basic water service":89.66,
+         "Limited water service":6.73,
+         "No water service":3.61
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":78.23,
+         "Limited water service":13.14,
+         "No water service":8.63
+      },
+      "Secondary":{
+         "Basic water service":93.0,
+         "Limited water service":7.0,
+         "No water service":1.0
+      }
+   },
+   "Bahrain":{
+      "country":"Bahrain",
+      "School age population":286.89,
+      "code":"BHR",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Belarus":{
+      "country":"Belarus",
+      "School age population":1418.57,
+      "code":"BLR",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Belize":{
+      "country":"Belize",
+      "School age population":108.07,
+      "code":"BLZ",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Bermuda":{
+      "country":"Bermuda",
+      "School age population":9.21,
+      "code":"BMU",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Bolivia (Plurinational State of)":{
+      "country":"Bolivia (Plurinational State of)",
+      "School age population":3269.44,
+      "code":"BOL",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Brazil":{
+      "country":"Brazil",
+      "School age population":42288.86,
+      "code":"BRA",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":15.11
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":3.53
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":44.39
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":21.23
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":17.81
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":6.46
+      }
+   },
+   "Barbados":{
+      "country":"Barbados",
+      "School age population":44.8,
+      "code":"BRB",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Brunei Darussalam":{
+      "country":"Brunei Darussalam",
+      "School age population":104.88,
+      "code":"BRN",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Bhutan":{
+      "country":"Bhutan",
+      "School age population":198.22,
+      "code":"BTN",
+      "National":{
+         "Basic water service":64.49,
+         "Limited water service":24.52,
+         "No water service":10.99
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":58.29,
+         "Limited water service":30.67,
+         "No water service":11.04
+      },
+      "Secondary":{
+         "Basic water service":63.09,
+         "Limited water service":29.14,
+         "No water service":7.77
+      }
+   },
+   "Botswana":{
+      "country":"Botswana",
+      "School age population":751.12,
+      "code":"BWA",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      }
+   },
+   "Central African Republic":{
+      "country":"Central African Republic",
+      "School age population":2110.51,
+      "code":"CAF",
+      "National":{
+         "Basic water service":15.95,
+         "Limited water service":7.36,
+         "No water service":76.69
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":49.38
+      },
+      "Primary":{
+         "Basic water service":15.95,
+         "Limited water service":2.67,
+         "No water service":81.38
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":57.71
+      }
+   },
+   "Switzerland":{
+      "country":"Switzerland",
+      "School age population":1241.53,
+      "code":"CHE",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Chile":{
+      "country":"Chile",
+      "School age population":3726.27,
+      "code":"CHL",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":3.63
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":9.66
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":3.67
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "China":{
+      "country":"China",
+      "School age population":252536.58,
+      "code":"CHN",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      }
+   },
+   "Côte d’Ivoire":{
+      "country":"Côte d’Ivoire",
+      "School age population":10267.12,
+      "code":"CIV",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":50.45
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":32.08
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":71.05
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":40.46
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":56.25
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":13.82
+      }
+   },
+   "Cameroon":{
+      "country":"Cameroon",
+      "School age population":9703.89,
+      "code":"CMR",
+      "National":{
+         "Basic water service":34.1,
+         "Limited water service":30.35,
+         "No water service":35.55
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":29.01
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":65.04
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":39.0
+      },
+      "Primary":{
+         "Basic water service":34.1,
+         "Limited water service":22.8,
+         "No water service":43.1
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Democratic Republic of the Congo":{
+      "country":"Democratic Republic of the Congo",
+      "School age population":34757.78,
+      "code":"COD",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":51.31
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":51.33
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":56.5
+      }
+   },
+   "Congo":{
+      "country":"Congo",
+      "School age population":2146.32,
+      "code":"COG",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":55.72
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":43.73
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":60.4
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":31.87
+      }
+   },
+   "Cook Islands":{
+      "country":"Cook Islands",
+      "School age population":4.01,
+      "code":"COK",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Colombia":{
+      "country":"Colombia",
+      "School age population":10730.72,
+      "code":"COL",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":25.91
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":6.41
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":50.39
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":26.49
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Comoros":{
+      "country":"Comoros",
+      "School age population":324.01,
+      "code":"COM",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":88.45
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":89.17
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":87.73
+      }
+   },
+   "Cabo Verde":{
+      "country":"Cabo Verde",
+      "School age population":151.87,
+      "code":"CPV",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      }
+   },
+   "Costa Rica":{
+      "country":"Costa Rica",
+      "School age population":920.32,
+      "code":"CRI",
+      "National":{
+         "Basic water service":84.17,
+         "Limited water service":4.62,
+         "No water service":11.21
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":18.94
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":2.83
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":2.24
+      },
+      "Primary":{
+         "Basic water service":86.03,
+         "Limited water service":1.0,
+         "No water service":13.06
+      },
+      "Secondary":{
+         "Basic water service":75.65,
+         "Limited water service":18.2,
+         "No water service":6.15
+      }
+   },
+   "Cuba":{
+      "country":"Cuba",
+      "School age population":1844.2,
+      "code":"CUB",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Cayman Islands":{
+      "country":"Cayman Islands",
+      "School age population":15.9,
+      "code":"CYM",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Germany":{
+      "country":"Germany",
+      "School age population":12017.66,
+      "code":"DEU",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Djibouti":{
+      "country":"Djibouti",
+      "School age population":257.14,
+      "code":"DJI",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":14.39
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":4.85
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":19.43
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":13.17
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":24.25
+      }
+   },
+   "Dominica":{
+      "country":"Dominica",
+      "School age population":12.29,
+      "code":"DMA",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Denmark":{
+      "country":"Denmark",
+      "School age population":1038.46,
+      "code":"DNK",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Dominican Republic":{
+      "country":"Dominican Republic",
+      "School age population":2890.33,
+      "code":"DOM",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":10.15
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":10.34
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":11.63
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":10.15
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Algeria":{
+      "country":"Algeria",
+      "School age population":9097.58,
+      "code":"DZA",
+      "National":{
+         "Basic water service":92.15,
+         "Limited water service":1.0,
+         "No water service":7.85
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":85.3,
+         "Limited water service":1.0,
+         "No water service":14.7
+      },
+      "Secondary":{
+         "Basic water service":98.2,
+         "Limited water service":1.0,
+         "No water service":1.14
+      }
+   },
+   "Ecuador":{
+      "country":"Ecuador",
+      "School age population":4724.99,
+      "code":"ECU",
+      "National":{
+         "Basic water service":87.13,
+         "Limited water service":6.58,
+         "No water service":6.29
+      },
+      "Urban":{
+         "Basic water service":92.5,
+         "Limited water service":2.0,
+         "No water service":5.5
+      },
+      "Rural":{
+         "Basic water service":80.8,
+         "Limited water service":11.0,
+         "No water service":8.2
+      },
+      "Pre-primary":{
+         "Basic water service":93.3,
+         "Limited water service":1.0,
+         "No water service":6.0
+      },
+      "Primary":{
+         "Basic water service":87.0,
+         "Limited water service":6.24,
+         "No water service":6.76
+      },
+      "Secondary":{
+         "Basic water service":95.5,
+         "Limited water service":1.0,
+         "No water service":4.0
+      }
+   },
+   "Egypt":{
+      "country":"Egypt",
+      "School age population":27387.28,
+      "code":"EGY",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Eritrea":{
+      "country":"Eritrea",
+      "School age population":1301.66,
+      "code":"ERI",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":30.36
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":59.05
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":35.4
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":19.92
+      }
+   },
+   "Spain":{
+      "country":"Spain",
+      "School age population":7236.13,
+      "code":"ESP",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Estonia":{
+      "country":"Estonia",
+      "School age population":228.68,
+      "code":"EST",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Ethiopia":{
+      "country":"Ethiopia",
+      "School age population":41526.61,
+      "code":"ETH",
+      "National":{
+         "Basic water service":15.49,
+         "Limited water service":8.14,
+         "No water service":76.37
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":37.11,
+         "Limited water service":12.89,
+         "No water service":50.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":14.87,
+         "Limited water service":5.61,
+         "No water service":79.52
+      },
+      "Secondary":{
+         "Basic water service":22.02,
+         "Limited water service":31.12,
+         "No water service":46.86
+      }
+   },
+   "Finland":{
+      "country":"Finland",
+      "School age population":964.31,
+      "code":"FIN",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Fiji":{
+      "country":"Fiji",
+      "School age population":266.33,
+      "code":"FJI",
+      "National":{
+         "Basic water service":88.08,
+         "Limited water service":5.42,
+         "No water service":6.5
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "France":{
+      "country":"France",
+      "School age population":12496.24,
+      "code":"FRA",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Georgia":{
+      "country":"Georgia",
+      "School age population":745.41,
+      "code":"GEO",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      }
+   },
+   "Ghana":{
+      "country":"Ghana",
+      "School age population":10305.04,
+      "code":"GHA",
+      "National":{
+         "Basic water service":70.75,
+         "Limited water service":1.0,
+         "No water service":29.25
+      },
+      "Urban":{
+         "Basic water service":84.61,
+         "Limited water service":10.4,
+         "No water service":4.99
+      },
+      "Rural":{
+         "Basic water service":73.27,
+         "Limited water service":11.1,
+         "No water service":15.63
+      },
+      "Pre-primary":{
+         "Basic water service":79.1,
+         "Limited water service":5.69,
+         "No water service":15.21
+      },
+      "Primary":{
+         "Basic water service":76.39,
+         "Limited water service":7.62,
+         "No water service":16.0
+      },
+      "Secondary":{
+         "Basic water service":79.12,
+         "Limited water service":14.47,
+         "No water service":6.41
+      }
+   },
+   "Gibraltar":{
+      "country":"Gibraltar",
+      "School age population":4.97,
+      "code":"GIB",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Guinea":{
+      "country":"Guinea",
+      "School age population":5242.15,
+      "code":"GIN",
+      "National":{
+         "Basic water service":9.5,
+         "Limited water service":23.96,
+         "No water service":66.54
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":43.81
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":79.95
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":14.81
+      },
+      "Primary":{
+         "Basic water service":9.5,
+         "Limited water service":25.31,
+         "No water service":65.19
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Gambia":{
+      "country":"Gambia",
+      "School age population":955.0,
+      "code":"GMB",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":22.99
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":31.33
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":14.96
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":11.32
+      }
+   },
+   "Guinea-Bissau":{
+      "country":"Guinea-Bissau",
+      "School age population":729.98,
+      "code":"GNB",
+      "National":{
+         "Basic water service":58.7,
+         "Limited water service":6.49,
+         "No water service":34.81
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Equatorial Guinea":{
+      "country":"Equatorial Guinea",
+      "School age population":416.18,
+      "code":"GNQ",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":71.94
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":74.35
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":74.15
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":48.5
+      }
+   },
+   "Grenada":{
+      "country":"Grenada",
+      "School age population":23.58,
+      "code":"GRD",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":98.6,
+         "Limited water service":1.4,
+         "No water service":1.0
+      }
+   },
+   "Guatemala":{
+      "country":"Guatemala",
+      "School age population":5468.06,
+      "code":"GTM",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":18.95
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":26.66
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":18.95
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "China, Hong Kong Special Administrative Region":{
+      "country":"China, Hong Kong Special Administrative Region",
+      "School age population":844.82,
+      "code":"HKG",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Honduras":{
+      "country":"Honduras",
+      "School age population":2852.87,
+      "code":"HND",
+      "National":{
+         "Basic water service":68.25,
+         "Limited water service":10.18,
+         "No water service":21.58
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":74.19,
+         "Limited water service":6.09,
+         "No water service":19.72
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":64.63,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":51.54,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Haiti":{
+      "country":"Haiti",
+      "School age population":3843.27,
+      "code":"HTI",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":42.42
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":51.57
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Hungary":{
+      "country":"Hungary",
+      "School age population":1518.71,
+      "code":"HUN",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Indonesia":{
+      "country":"Indonesia",
+      "School age population":65269.12,
+      "code":"IDN",
+      "National":{
+         "Basic water service":72.73,
+         "Limited water service":10.66,
+         "No water service":16.61
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Pre-primary":{
+         "Basic water service":70.47,
+         "Limited water service":2.08,
+         "No water service":27.45
+      },
+      "Primary":{
+         "Basic water service":72.03,
+         "Limited water service":10.91,
+         "No water service":17.06
+      },
+      "Secondary":{
+         "Basic water service":74.95,
+         "Limited water service":11.16,
+         "No water service":13.89
+      }
+   },
+   "India":{
+      "country":"India",
+      "School age population":376154.81,
+      "code":"IND",
+      "National":{
+         "Basic water service":67.42,
+         "Limited water service":26.58,
+         "No water service":6.0
+      },
+      "Urban":{
+         "Basic water service":72.43,
+         "Limited water service":20.83,
+         "No water service":6.74
+      },
+      "Rural":{
+         "Basic water service":66.82,
+         "Limited water service":25.1,
+         "No water service":8.08
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":66.86,
+         "Limited water service":25.36,
+         "No water service":7.78
+      },
+      "Secondary":{
+         "Basic water service":75.49,
+         "Limited water service":18.26,
+         "No water service":6.25
+      }
+   },
+   "Iraq":{
+      "country":"Iraq",
+      "School age population":12793.55,
+      "code":"IRQ",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":15.8
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.69
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":19.28
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":8.64
+      }
+   },
+   "Israel":{
+      "country":"Israel",
+      "School age population":2216.56,
+      "code":"ISR",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Italy":{
+      "country":"Italy",
+      "School age population":9085.12,
+      "code":"ITA",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Jamaica":{
+      "country":"Jamaica",
+      "School age population":638.08,
+      "code":"JAM",
+      "National":{
+         "Basic water service":94.86,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":93.92,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":95.89,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Jordan":{
+      "country":"Jordan",
+      "School age population":3169.95,
+      "code":"JOR",
+      "National":{
+         "Basic water service":92.7,
+         "Limited water service":6.98,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Kenya":{
+      "country":"Kenya",
+      "School age population":20279.63,
+      "code":"KEN",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":71.74,
+         "Limited water service":3.26,
+         "No water service":25.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Kyrgyzstan":{
+      "country":"Kyrgyzstan",
+      "School age population":1775.65,
+      "code":"KGZ",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Cambodia":{
+      "country":"Cambodia",
+      "School age population":4837.17,
+      "code":"KHM",
+      "National":{
+         "Basic water service":73.33,
+         "Limited water service":1.0,
+         "No water service":26.51
+      },
+      "Urban":{
+         "Basic water service":75.4,
+         "Limited water service":1.0,
+         "No water service":24.6
+      },
+      "Rural":{
+         "Basic water service":72.94,
+         "Limited water service":1.0,
+         "No water service":26.74
+      },
+      "Pre-primary":{
+         "Basic water service":57.99,
+         "Limited water service":1.0,
+         "No water service":42.01
+      },
+      "Primary":{
+         "Basic water service":80.1,
+         "Limited water service":2.14,
+         "No water service":17.75
+      },
+      "Secondary":{
+         "Basic water service":76.05,
+         "Limited water service":1.0,
+         "No water service":23.95
+      }
+   },
+   "Kiribati":{
+      "country":"Kiribati",
+      "School age population":41.19,
+      "code":"KIR",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":25.86
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Saint Kitts and Nevis":{
+      "country":"Saint Kitts and Nevis",
+      "School age population":9.94,
+      "code":"KNA",
+      "National":{
+         "Basic water service":83.58,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":78.79,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Republic of Korea":{
+      "country":"Republic of Korea",
+      "School age population":7187.52,
+      "code":"KOR",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Kuwait":{
+      "country":"Kuwait",
+      "School age population":779.81,
+      "code":"KWT",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Lao People's Democratic Republic":{
+      "country":"Lao People's Democratic Republic",
+      "School age population":2238.53,
+      "code":"LAO",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":32.67
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":17.97
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":42.71
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":32.67
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Lebanon":{
+      "country":"Lebanon",
+      "School age population":1677.99,
+      "code":"LBN",
+      "National":{
+         "Basic water service":59.4,
+         "Limited water service":1.0,
+         "No water service":39.85
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":57.2,
+         "Limited water service":2.75,
+         "No water service":40.05
+      },
+      "Primary":{
+         "Basic water service":59.7,
+         "Limited water service":3.1,
+         "No water service":37.2
+      },
+      "Secondary":{
+         "Basic water service":60.6,
+         "Limited water service":2.6,
+         "No water service":36.8
+      }
+   },
+   "Liberia":{
+      "country":"Liberia",
+      "School age population":1881.47,
+      "code":"LBR",
+      "National":{
+         "Basic water service":50.07,
+         "Limited water service":1.94,
+         "No water service":48.0
+      },
+      "Urban":{
+         "Basic water service":59.36,
+         "Limited water service":3.21,
+         "No water service":37.43
+      },
+      "Rural":{
+         "Basic water service":35.67,
+         "Limited water service":4.73,
+         "No water service":59.59
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":44.18,
+         "Limited water service":13.42,
+         "No water service":42.4
+      },
+      "Secondary":{
+         "Basic water service":64.81,
+         "Limited water service":10.73,
+         "No water service":24.46
+      }
+   },
+   "Libya":{
+      "country":"Libya",
+      "School age population":1709.46,
+      "code":"LBY",
+      "National":{
+         "Basic water service":17.0,
+         "Limited water service":67.0,
+         "No water service":16.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Saint Lucia":{
+      "country":"Saint Lucia",
+      "School age population":31.71,
+      "code":"LCA",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Sri Lanka":{
+      "country":"Sri Lanka",
+      "School age population":4795.06,
+      "code":"LKA",
+      "National":{
+         "Basic water service":83.14,
+         "Limited water service":1.0,
+         "No water service":16.86
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":61.97,
+         "Limited water service":23.63,
+         "No water service":14.4
+      },
+      "Primary":{
+         "Basic water service":84.44,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":87.82,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Lesotho":{
+      "country":"Lesotho",
+      "School age population":656.7,
+      "code":"LSO",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Latvia":{
+      "country":"Latvia",
+      "School age population":251.91,
+      "code":"LVA",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "China, Macao Special Administrative Region":{
+      "country":"China, Macao Special Administrative Region",
+      "School age population":73.55,
+      "code":"MAC",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Morocco":{
+      "country":"Morocco",
+      "School age population":8753.18,
+      "code":"MAR",
+      "National":{
+         "Basic water service":83.57,
+         "Limited water service":3.49,
+         "No water service":12.94
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":73.99,
+         "Limited water service":9.66,
+         "No water service":16.35
+      },
+      "Secondary":{
+         "Basic water service":90.6,
+         "Limited water service":1.0,
+         "No water service":9.4
+      }
+   },
+   "Monaco":{
+      "country":"Monaco",
+      "School age population":9.54,
+      "code":"MCO",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Republic of Moldova":{
+      "country":"Republic of Moldova",
+      "School age population":479.68,
+      "code":"MDA",
+      "National":{
+         "Basic water service":91.92,
+         "Limited water service":8.08,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      }
+   },
+   "Madagascar":{
+      "country":"Madagascar",
+      "School age population":10035.74,
+      "code":"MDG",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":62.94
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":63.2
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":74.1
+      }
+   },
+   "Maldives":{
+      "country":"Maldives",
+      "School age population":99.19,
+      "code":"MDV",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Mexico":{
+      "country":"Mexico",
+      "School age population":33554.88,
+      "code":"MEX",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":15.46
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":2.66
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":22.54
+      },
+      "Pre-primary":{
+         "Basic water service":60.9,
+         "Limited water service":29.21,
+         "No water service":9.89
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":16.65
+      },
+      "Secondary":{
+         "Basic water service":49.04,
+         "Limited water service":36.64,
+         "No water service":14.32
+      }
+   },
+   "Marshall Islands":{
+      "country":"Marshall Islands",
+      "School age population":21.47,
+      "code":"MHL",
+      "National":{
+         "Basic water service":3.19,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":3.19,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Mali":{
+      "country":"Mali",
+      "School age population":8400.44,
+      "code":"MLI",
+      "National":{
+         "Basic water service":70.08,
+         "Limited water service":23.61,
+         "No water service":6.32
+      },
+      "Urban":{
+         "Basic water service":86.52,
+         "Limited water service":10.28,
+         "No water service":3.19
+      },
+      "Rural":{
+         "Basic water service":59.79,
+         "Limited water service":13.98,
+         "No water service":26.22
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":70.08,
+         "Limited water service":27.86,
+         "No water service":2.07
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Myanmar":{
+      "country":"Myanmar",
+      "School age population":12550.15,
+      "code":"MMR",
+      "National":{
+         "Basic water service":75.36,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":71.87,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":81.68,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Mongolia":{
+      "country":"Mongolia",
+      "School age population":871.97,
+      "code":"MNG",
+      "National":{
+         "Basic water service":74.4,
+         "Limited water service":23.85,
+         "No water service":1.75
+      },
+      "Urban":{
+         "Basic water service":84.8,
+         "Limited water service":14.8,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":72.9,
+         "Limited water service":24.7,
+         "No water service":2.4
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":72.7,
+         "Limited water service":23.8,
+         "No water service":3.5
+      },
+      "Secondary":{
+         "Basic water service":73.4,
+         "Limited water service":25.35,
+         "No water service":1.25
+      }
+   },
+   "Mozambique":{
+      "country":"Mozambique",
+      "School age population":12516.78,
+      "code":"MOZ",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":48.09,
+         "Limited water service":1.0,
+         "No water service":51.91
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Mauritania":{
+      "country":"Mauritania",
+      "School age population":1708.46,
+      "code":"MRT",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":79.06
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":81.9
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":58.08
+      }
+   },
+   "Montserrat":{
+      "country":"Montserrat",
+      "School age population":0.88,
+      "code":"MSR",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Mauritius":{
+      "country":"Mauritius",
+      "School age population":237.6,
+      "code":"MUS",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Malawi":{
+      "country":"Malawi",
+      "School age population":7709.41,
+      "code":"MWI",
+      "National":{
+         "Basic water service":77.73,
+         "Limited water service":14.59,
+         "No water service":7.68
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":2.76
+      },
+      "Rural":{
+         "Basic water service":68.18,
+         "Limited water service":24.11,
+         "No water service":7.71
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":87.27,
+         "Limited water service":4.24,
+         "No water service":8.49
+      },
+      "Secondary":{
+         "Basic water service":81.7,
+         "Limited water service":13.19,
+         "No water service":5.11
+      }
+   },
+   "Malaysia":{
+      "country":"Malaysia",
+      "School age population":7388.99,
+      "code":"MYS",
+      "National":{
+         "Basic water service":98.05,
+         "Limited water service":1.95,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":97.14,
+         "Limited water service":2.86,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":98.9,
+         "Limited water service":1.1,
+         "No water service":1.0
+      }
+   },
+   "Niger":{
+      "country":"Niger",
+      "School age population":9894.88,
+      "code":"NER",
+      "National":{
+         "Basic water service":16.13,
+         "Limited water service":2.9,
+         "No water service":80.97
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":60.37
+      },
+      "Rural":{
+         "Basic water service":20.34,
+         "Limited water service":18.28,
+         "No water service":61.38
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":74.14
+      },
+      "Primary":{
+         "Basic water service":16.13,
+         "Limited water service":1.63,
+         "No water service":82.23
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":44.98
+      }
+   },
+   "Nigeria":{
+      "country":"Nigeria",
+      "School age population":65744.98,
+      "code":"NGA",
+      "National":{
+         "Basic water service":36.44,
+         "Limited water service":26.9,
+         "No water service":36.66
+      },
+      "Urban":{
+         "Basic water service":41.0,
+         "Limited water service":33.05,
+         "No water service":25.95
+      },
+      "Rural":{
+         "Basic water service":32.83,
+         "Limited water service":18.85,
+         "No water service":48.32
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":32.05,
+         "Limited water service":27.42,
+         "No water service":40.52
+      },
+      "Secondary":{
+         "Basic water service":53.33,
+         "Limited water service":18.21,
+         "No water service":28.46
+      }
+   },
+   "Nicaragua":{
+      "country":"Nicaragua",
+      "School age population":1750.51,
+      "code":"NIC",
+      "National":{
+         "Basic water service":53.98,
+         "Limited water service":18.37,
+         "No water service":27.66
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":53.68,
+         "Limited water service":21.7,
+         "No water service":24.62
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":31.54
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Niue":{
+      "country":"Niue",
+      "School age population":0.37,
+      "code":"NIU",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Netherlands":{
+      "country":"Netherlands",
+      "School age population":2889.56,
+      "code":"NLD",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Norway":{
+      "country":"Norway",
+      "School age population":1017.3,
+      "code":"NOR",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Nepal":{
+      "country":"Nepal",
+      "School age population":7996.06,
+      "code":"NPL",
+      "National":{
+         "Basic water service":46.94,
+         "Limited water service":30.56,
+         "No water service":22.5
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":39.01,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":76.48,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Nauru":{
+      "country":"Nauru",
+      "School age population":3.57,
+      "code":"NRU",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Oman":{
+      "country":"Oman",
+      "School age population":820.38,
+      "code":"OMN",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Pakistan":{
+      "country":"Pakistan",
+      "School age population":66593.81,
+      "code":"PAK",
+      "National":{
+         "Basic water service":57.48,
+         "Limited water service":8.03,
+         "No water service":34.5
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":16.08
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":34.34
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":52.01,
+         "Limited water service":10.92,
+         "No water service":37.07
+      },
+      "Secondary":{
+         "Basic water service":80.63,
+         "Limited water service":4.27,
+         "No water service":15.1
+      }
+   },
+   "Panama":{
+      "country":"Panama",
+      "School age population":1071.06,
+      "code":"PAN",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":19.73
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":30.09
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":19.73
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Peru":{
+      "country":"Peru",
+      "School age population":7556.1,
+      "code":"PER",
+      "National":{
+         "Basic water service":79.9,
+         "Limited water service":4.14,
+         "No water service":15.96
+      },
+      "Urban":{
+         "Basic water service":89.09,
+         "Limited water service":4.07,
+         "No water service":6.84
+      },
+      "Rural":{
+         "Basic water service":67.87,
+         "Limited water service":5.02,
+         "No water service":27.1
+      },
+      "Pre-primary":{
+         "Basic water service":81.04,
+         "Limited water service":7.94,
+         "No water service":11.02
+      },
+      "Primary":{
+         "Basic water service":79.4,
+         "Limited water service":5.37,
+         "No water service":15.23
+      },
+      "Secondary":{
+         "Basic water service":76.03,
+         "Limited water service":9.4,
+         "No water service":14.57
+      }
+   },
+   "Philippines":{
+      "country":"Philippines",
+      "School age population":25462.04,
+      "code":"PHL",
+      "National":{
+         "Basic water service":46.9,
+         "Limited water service":19.59,
+         "No water service":33.51
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":45.35,
+         "Limited water service":19.85,
+         "No water service":34.8
+      },
+      "Secondary":{
+         "Basic water service":53.96,
+         "Limited water service":18.35,
+         "No water service":27.69
+      }
+   },
+   "Papua New Guinea":{
+      "country":"Papua New Guinea",
+      "School age population":3443.84,
+      "code":"PNG",
+      "National":{
+         "Basic water service":46.83,
+         "Limited water service":6.43,
+         "No water service":46.73
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":33.91,
+         "Limited water service":7.81,
+         "No water service":58.28
+      },
+      "Primary":{
+         "Basic water service":45.84,
+         "Limited water service":6.29,
+         "No water service":47.87
+      },
+      "Secondary":{
+         "Basic water service":65.19,
+         "Limited water service":23.27,
+         "No water service":11.54
+      }
+   },
+   "Poland":{
+      "country":"Poland",
+      "School age population":5965.08,
+      "code":"POL",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Portugal":{
+      "country":"Portugal",
+      "School age population":1456.09,
+      "code":"PRT",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Paraguay":{
+      "country":"Paraguay",
+      "School age population":2021.09,
+      "code":"PRY",
+      "National":{
+         "Basic water service":66.73,
+         "Limited water service":29.83,
+         "No water service":3.43
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":8.73
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":66.73,
+         "Limited water service":29.83,
+         "No water service":3.43
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "West Bank and Gaza Strip":{
+      "country":"West Bank and Gaza Strip",
+      "School age population":1643.5,
+      "code":"PSE",
+      "National":{
+         "Basic water service":78.34,
+         "Limited water service":21.66,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":78.04,
+         "Limited water service":18.72,
+         "No water service":3.24
+      },
+      "Rural":{
+         "Basic water service":80.51,
+         "Limited water service":17.91,
+         "No water service":1.58
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":2.4
+      },
+      "Primary":{
+         "Basic water service":80.61,
+         "Limited water service":19.39,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":85.91,
+         "Limited water service":14.09,
+         "No water service":1.0
+      }
+   },
+   "Qatar":{
+      "country":"Qatar",
+      "School age population":329.92,
+      "code":"QAT",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Romania":{
+      "country":"Romania",
+      "School age population":3330.19,
+      "code":"ROU",
+      "National":{
+         "Basic water service":72.33,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":66.72,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":63.52,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":84.71,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Russian Federation":{
+      "country":"Russian Federation",
+      "School age population":24192.83,
+      "code":"RUS",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.69
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.03
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Rwanda":{
+      "country":"Rwanda",
+      "School age population":4614.05,
+      "code":"RWA",
+      "National":{
+         "Basic water service":54.98,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":53.02,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":64.9,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Saudi Arabia":{
+      "country":"Saudi Arabia",
+      "School age population":7962.65,
+      "code":"SAU",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Sudan":{
+      "country":"Sudan",
+      "School age population":13889.94,
+      "code":"SDN",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":9.86
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":13.7
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":4.64
+      }
+   },
+   "Senegal":{
+      "country":"Senegal",
+      "School age population":6624.65,
+      "code":"SEN",
+      "National":{
+         "Basic water service":45.24,
+         "Limited water service":32.08,
+         "No water service":22.68
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":5.77
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":34.12
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":63.24
+      },
+      "Primary":{
+         "Basic water service":42.48,
+         "Limited water service":31.99,
+         "No water service":25.54
+      },
+      "Secondary":{
+         "Basic water service":78.77,
+         "Limited water service":16.26,
+         "No water service":4.97
+      }
+   },
+   "Singapore":{
+      "country":"Singapore",
+      "School age population":506.32,
+      "code":"SGP",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Solomon Islands":{
+      "country":"Solomon Islands",
+      "School age population":259.62,
+      "code":"SLB",
+      "National":{
+         "Basic water service":16.57,
+         "Limited water service":36.43,
+         "No water service":47.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":14.0,
+         "Limited water service":39.0,
+         "No water service":47.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":19.56,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":18.73,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Sierra Leone":{
+      "country":"Sierra Leone",
+      "School age population":3160.28,
+      "code":"SLE",
+      "National":{
+         "Basic water service":62.89,
+         "Limited water service":26.23,
+         "No water service":10.88
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":73.32,
+         "Limited water service":24.44,
+         "No water service":2.24
+      },
+      "Primary":{
+         "Basic water service":55.02,
+         "Limited water service":37.44,
+         "No water service":7.53
+      },
+      "Secondary":{
+         "Basic water service":71.16,
+         "Limited water service":26.46,
+         "No water service":2.38
+      }
+   },
+   "El Salvador":{
+      "country":"El Salvador",
+      "School age population":1722.44,
+      "code":"SLV",
+      "National":{
+         "Basic water service":81.72,
+         "Limited water service":13.68,
+         "No water service":4.6
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":2.97
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":4.47
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":6.29
+      },
+      "Primary":{
+         "Basic water service":80.03,
+         "Limited water service":14.81,
+         "No water service":5.15
+      },
+      "Secondary":{
+         "Basic water service":83.91,
+         "Limited water service":11.78,
+         "No water service":4.31
+      }
+   },
+   "San Marino":{
+      "country":"San Marino",
+      "School age population":4.98,
+      "code":"SMR",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Somalia":{
+      "country":"Somalia",
+      "School age population":6403.84,
+      "code":"SOM",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":45.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":46.01
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":36.95
+      }
+   },
+   "Serbia":{
+      "country":"Serbia",
+      "School age population":1038.98,
+      "code":"SRB",
+      "National":{
+         "Basic water service":71.97,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":63.4,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":91.48,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "South Sudan":{
+      "country":"South Sudan",
+      "School age population":4378.32,
+      "code":"SSD",
+      "National":{
+         "Basic water service":50.76,
+         "Limited water service":9.34,
+         "No water service":39.9
+      },
+      "Urban":{
+         "Basic water service":60.61,
+         "Limited water service":4.04,
+         "No water service":35.35
+      },
+      "Rural":{
+         "Basic water service":47.87,
+         "Limited water service":10.99,
+         "No water service":41.13
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":50.76,
+         "Limited water service":9.34,
+         "No water service":39.9
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":8.0
+      }
+   },
+   "Sao Tome and Principe":{
+      "country":"Sao Tome and Principe",
+      "School age population":85.0,
+      "code":"STP",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":14.72
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":38.95
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":9.5
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":4.58
+      }
+   },
+   "Slovakia":{
+      "country":"Slovakia",
+      "School age population":883.57,
+      "code":"SVK",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Slovenia":{
+      "country":"Slovenia",
+      "School age population":318.39,
+      "code":"SVN",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Eswatini":{
+      "country":"Eswatini",
+      "School age population":429.36,
+      "code":"SWZ",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":13.85
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":16.85
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":8.8
+      }
+   },
+   "Seychelles":{
+      "country":"Seychelles",
+      "School age population":21.8,
+      "code":"SYC",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Syrian Arab Republic":{
+      "country":"Syrian Arab Republic",
+      "School age population":5512.06,
+      "code":"SYR",
+      "National":{
+         "Basic water service":48.69,
+         "Limited water service":49.11,
+         "No water service":2.2
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":49.16,
+         "Limited water service":48.5,
+         "No water service":2.34
+      },
+      "Secondary":{
+         "Basic water service":49.39,
+         "Limited water service":48.82,
+         "No water service":1.79
+      }
+   },
+   "Turks and Caicos Islands":{
+      "country":"Turks and Caicos Islands",
+      "School age population":9.35,
+      "code":"TCA",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Chad":{
+      "country":"Chad",
+      "School age population":6973.52,
+      "code":"TCD",
+      "National":{
+         "Basic water service":22.66,
+         "Limited water service":14.47,
+         "No water service":62.87
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":40.79
+      },
+      "Primary":{
+         "Basic water service":19.34,
+         "Limited water service":10.95,
+         "No water service":69.72
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":50.01
+      }
+   },
+   "Togo":{
+      "country":"Togo",
+      "School age population":3237.59,
+      "code":"TGO",
+      "National":{
+         "Basic water service":20.21,
+         "Limited water service":22.93,
+         "No water service":56.87
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":20.21,
+         "Limited water service":15.04,
+         "No water service":64.76
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":48.59
+      }
+   },
+   "Tajikistan":{
+      "country":"Tajikistan",
+      "School age population":2888.06,
+      "code":"TJK",
+      "National":{
+         "Basic water service":78.69,
+         "Limited water service":7.56,
+         "No water service":13.75
+      },
+      "Urban":{
+         "Basic water service":93.12,
+         "Limited water service":3.75,
+         "No water service":3.12
+      },
+      "Rural":{
+         "Basic water service":73.49,
+         "Limited water service":8.64,
+         "No water service":17.87
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Timor-Leste":{
+      "country":"Timor-Leste",
+      "School age population":469.84,
+      "code":"TLS",
+      "National":{
+         "Basic water service":68.55,
+         "Limited water service":4.62,
+         "No water service":26.83
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":69.11,
+         "Limited water service":3.33,
+         "No water service":27.56
+      },
+      "Secondary":{
+         "Basic water service":62.09,
+         "Limited water service":13.99,
+         "No water service":23.92
+      }
+   },
+   "Tunisia":{
+      "country":"Tunisia",
+      "School age population":2738.19,
+      "code":"TUN",
+      "National":{
+         "Basic water service":69.5,
+         "Limited water service":15.32,
+         "No water service":15.18
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":69.5,
+         "Limited water service":17.27,
+         "No water service":13.23
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      }
+   },
+   "United Republic of Tanzania":{
+      "country":"United Republic of Tanzania",
+      "School age population":22134.71,
+      "code":"TZA",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":28.75
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":27.6
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Uganda":{
+      "country":"Uganda",
+      "School age population":19970.51,
+      "code":"UGA",
+      "National":{
+         "Basic water service":68.44,
+         "Limited water service":26.18,
+         "No water service":5.38
+      },
+      "Urban":{
+         "Basic water service":89.78,
+         "Limited water service":10.14,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":54.02,
+         "Limited water service":34.43,
+         "No water service":11.54
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":70.04,
+         "Limited water service":23.34,
+         "No water service":6.61
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Ukraine":{
+      "country":"Ukraine",
+      "School age population":4954.86,
+      "code":"UKR",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Uruguay":{
+      "country":"Uruguay",
+      "School age population":705.19,
+      "code":"URY",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":1.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":18.57
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "United States of America":{
+      "country":"United States of America",
+      "School age population":62201.66,
+      "code":"USA",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Uzbekistan":{
+      "country":"Uzbekistan",
+      "School age population":9010.24,
+      "code":"UZB",
+      "National":{
+         "Basic water service":89.52,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":90.45,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":89.02,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Saint Vincent and the Grenadines":{
+      "country":"Saint Vincent and the Grenadines",
+      "School age population":23.53,
+      "code":"VCT",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":98.77,
+         "Limited water service":1.23,
+         "No water service":1.0
+      }
+   },
+   "Venezuela (Bolivarian Republic of)":{
+      "country":"Venezuela (Bolivarian Republic of)",
+      "School age population":7677.2,
+      "code":"VEN",
+      "National":{
+         "Basic water service":97.49,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":97.49,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "British Virgin Islands":{
+      "country":"British Virgin Islands",
+      "School age population":5.16,
+      "code":"VGB",
+      "National":{
+         "Basic water service":92.84,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":84.28,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Vanuatu":{
+      "country":"Vanuatu",
+      "School age population":106.23,
+      "code":"VUT",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":59.19
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":64.61
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":51.08
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":58.12
+      }
+   },
+   "Samoa":{
+      "country":"Samoa",
+      "School age population":69.73,
+      "code":"WSM",
+      "National":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      },
+      "Secondary":{
+         "Basic water service":99.0,
+         "Limited water service":1.0,
+         "No water service":1.0
+      }
+   },
+   "Yemen":{
+      "country":"Yemen",
+      "School age population":10659.99,
+      "code":"YEM",
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":45.98,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "South Africa":{
+      "country":"South Africa",
+      "School age population":15589.47,
+      "code":"ZAF",
+      "National":{
+         "Basic water service":76.65,
+         "Limited water service":23.35,
+         "No water service":1.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Secondary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      }
+   },
+   "Zambia":{
+      "country":"Zambia",
+      "School age population":7882.07,
+      "code":"ZMB",
+      "National":{
+         "Basic water service":79.07,
+         "Limited water service":4.06,
+         "No water service":16.87
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Rural":{
+         "Basic water service":78.57,
+         "Limited water service":5.43,
+         "No water service":16.0
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":78.07,
+         "Limited water service":3.44,
+         "No water service":18.49
+      },
+      "Secondary":{
+         "Basic water service":94.0,
+         "Limited water service":1.0,
+         "No water service":5.01
+      }
+   },
+   "Zimbabwe":{
+      "country":"Zimbabwe",
+      "School age population":5763.86,
+      "code":"ZWE",
+      "National":{
+         "Basic water service":65.85,
+         "Limited water service":20.82,
+         "No water service":13.33
+      },
+      "Urban":{
+         "Basic water service":85.68,
+         "Limited water service":13.09,
+         "No water service":1.23
+      },
+      "Rural":{
+         "Basic water service":60.36,
+         "Limited water service":30.36,
+         "No water service":9.28
+      },
+      "Pre-primary":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0
+      },
+      "Primary":{
+         "Basic water service":64.44,
+         "Limited water service":21.69,
+         "No water service":13.87
+      },
+      "Secondary":{
+         "Basic water service":68.96,
+         "Limited water service":18.79,
+         "No water service":12.24
+      }
+   }
+}
