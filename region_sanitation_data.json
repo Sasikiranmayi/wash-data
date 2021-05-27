@@ -1,0 +1,426 @@
+{
+   "Australia and New Zealand":{
+      "Population":29986.26,
+      "urban":8620.23,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      }
+   },
+   "Central and Southern Asia":{
+      "Population":1991423.49,
+      "urban":3664.75,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":10.58,
+         "Improved":89.42,
+         "Improved and useable":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":81.33
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":28.31,
+         "Improved":71.69,
+         "Improved and useable":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      }
+   },
+   "Eastern and South-Eastern Asia":{
+      "Population":2334623.01,
+      "urban":5974.93,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":4.42,
+         "Improved":95.58,
+         "Improved and useable":83.58
+      },
+      "Urban":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":4.52,
+         "Improved":95.48,
+         "Improved and useable":83.23
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":2.8,
+         "Improved":97.2,
+         "Improved and useable":83.57
+      },
+      "Non-Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      }
+   },
+   "Europe and Northern America":{
+      "Population":1113783.76,
+      "urban":7720.15,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      }
+   },
+   "Latin America and the Caribbean":{
+      "Population":648120.95,
+      "urban":8082.98,
+      "National":{
+         "Basic sanitation service":38.26,
+         "Limited sanitation service":58.97,
+         "No sanitation service":2.77,
+         "Improved":97.23,
+         "Improved and useable":80.72
+      },
+      "Urban":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":27.75,
+         "Limited sanitation service":63.69,
+         "No sanitation service":8.56,
+         "Improved":91.44,
+         "Improved and useable":79.07
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      }
+   },
+   "Northern Africa and Western Asia":{
+      "Population":517105.56,
+      "urban":6288.23,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      }
+   },
+   "Oceania":{
+      "Population":12141.79,
+      "urban":2291.05,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":32.28,
+         "Improved":67.72,
+         "Improved and useable":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":32.88,
+         "Improved":67.12,
+         "Improved and useable":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Improved":0.0,
+         "Improved and useable":0.0
+      }
+   },
+   "Sub-Saharan Africa":{
+      "Population":1066283.42,
+      "urban":4102.91,
+      "National":{
+         "Basic sanitation service":28.99,
+         "Limited sanitation service":41.71,
+         "No sanitation service":29.31,
+         "Improved":70.44,
+         "Improved and useable":61.67
+      },
+      "Urban":{
+         "Basic sanitation service":37.06,
+         "Limited sanitation service":49.07,
+         "No sanitation service":13.86,
+         "Improved":84.71,
+         "Improved and useable":73.96
+      },
+      "Rural":{
+         "Basic sanitation service":11.43,
+         "Limited sanitation service":66.04,
+         "No sanitation service":22.53,
+         "Improved":77.68,
+         "Improved and useable":59.3
+      },
+      "Hospital":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":12.49,
+         "Improved":86.28,
+         "Improved and useable":83.92
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":13.51,
+         "Limited sanitation service":61.41,
+         "No sanitation service":25.08,
+         "Improved":74.78,
+         "Improved and useable":61.5
+      },
+      "Government":{
+         "Basic sanitation service":13.17,
+         "Limited sanitation service":65.91,
+         "No sanitation service":20.92,
+         "Improved":79.08,
+         "Improved and useable":58.46
+      },
+      "Non-Government":{
+         "Basic sanitation service":49.26,
+         "Limited sanitation service":34.07,
+         "No sanitation service":16.67,
+         "Improved":83.0,
+         "Improved and useable":76.69
+      }
+   }
+}
