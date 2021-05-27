@@ -1,0 +1,442 @@
+{
+   "Australia and New Zealand":{
+      "country":"Australia and New Zealand",
+      "year":2019,
+      "Population":29986.26,
+      "urban":8620.23,
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      }
+   },
+   "Central and Southern Asia":{
+      "country":"Central and Southern Asia",
+      "year":2019,
+      "Population":1991423.49,
+      "urban":3664.75,
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Hospital":{
+         "Basic water service":91.28,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      }
+   },
+   "Eastern and South-Eastern Asia":{
+      "country":"Eastern and South-Eastern Asia",
+      "year":2019,
+      "Population":2334623.01,
+      "urban":5974.93,
+      "National":{
+         "Basic water service":88.83,
+         "Limited water service":1.76,
+         "No water service":9.41,
+         "Improved water source":90.58,
+         "Improved water on premises":89.6
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":4.42,
+         "Improved water source":95.58,
+         "Improved water on premises":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":9.49,
+         "Improved water source":90.51,
+         "Improved water on premises":0.0
+      },
+      "Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Hospital":{
+         "Basic water service":88.17,
+         "Limited water service":2.36,
+         "No water service":9.46,
+         "Improved water source":90.52,
+         "Improved water on premises":89.52
+      },
+      "Government":{
+         "Basic water service":90.36,
+         "Limited water service":0.92,
+         "No water service":8.72,
+         "Improved water source":91.28,
+         "Improved water on premises":91.25
+      },
+      "Non-Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      }
+   },
+   "Europe and Northern America":{
+      "country":"Europe and Northern America",
+      "year":2019,
+      "Population":1113783.76,
+      "urban":7720.15,
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      }
+   },
+   "Latin America and the Caribbean":{
+      "country":"Latin America and the Caribbean",
+      "year":2019,
+      "Population":648120.95,
+      "urban":8082.98,
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":6.33,
+         "Improved water source":93.67,
+         "Improved water on premises":89.28
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Hospital":{
+         "Basic water service":75.58,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":10.6,
+         "Improved water source":89.4,
+         "Improved water on premises":84.3
+      },
+      "Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":6.31,
+         "Improved water source":93.69,
+         "Improved water on premises":88.49
+      },
+      "Non-Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      }
+   },
+   "Northern Africa and Western Asia":{
+      "country":"Northern Africa and Western Asia",
+      "year":2019,
+      "Population":517105.56,
+      "urban":6288.23,
+      "National":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      }
+   },
+   "Oceania":{
+      "country":"Oceania",
+      "year":2019,
+      "Population":12141.79,
+      "urban":2291.05,
+      "National":{
+         "Basic water service":71.17,
+         "Limited water service":20.98,
+         "No water service":7.85,
+         "Improved water source":92.15,
+         "Improved water on premises":86.15
+      },
+      "Urban":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Rural":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Hospital":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Hospital":{
+         "Basic water service":71.48,
+         "Limited water service":21.44,
+         "No water service":7.09,
+         "Improved water source":92.91,
+         "Improved water on premises":86.48
+      },
+      "Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      },
+      "Non-Government":{
+         "Basic water service":0.0,
+         "Limited water service":0.0,
+         "No water service":0.0,
+         "Improved water source":0.0,
+         "Improved water on premises":0.0
+      }
+   },
+   "Sub-Saharan Africa":{
+      "country":"Sub-Saharan Africa",
+      "year":2019,
+      "Population":1066283.42,
+      "urban":4102.91,
+      "National":{
+         "Basic water service":46.15,
+         "Limited water service":34.52,
+         "No water service":19.33,
+         "Improved water source":80.53,
+         "Improved water on premises":56.81
+      },
+      "Urban":{
+         "Basic water service":66.77,
+         "Limited water service":26.92,
+         "No water service":6.3,
+         "Improved water source":93.52,
+         "Improved water on premises":74.4
+      },
+      "Rural":{
+         "Basic water service":42.16,
+         "Limited water service":34.61,
+         "No water service":23.23,
+         "Improved water source":76.3,
+         "Improved water on premises":49.56
+      },
+      "Hospital":{
+         "Basic water service":71.23,
+         "Limited water service":22.2,
+         "No water service":6.57,
+         "Improved water source":93.34,
+         "Improved water on premises":72.09
+      },
+      "Non-Hospital":{
+         "Basic water service":46.97,
+         "Limited water service":37.73,
+         "No water service":15.3,
+         "Improved water source":84.63,
+         "Improved water on premises":53.61
+      },
+      "Government":{
+         "Basic water service":44.45,
+         "Limited water service":33.13,
+         "No water service":22.42,
+         "Improved water source":77.41,
+         "Improved water on premises":52.82
+      },
+      "Non-Government":{
+         "Basic water service":55.91,
+         "Limited water service":37.42,
+         "No water service":6.67,
+         "Improved water source":93.29,
+         "Improved water on premises":60.05
+      }
+   }
+}
