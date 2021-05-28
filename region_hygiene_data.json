@@ -1,0 +1,426 @@
+{
+   "Australia and New Zealand":{
+      "Population":29986.26,
+      "urban":8620.23,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      }
+   },
+   "Central and Southern Asia":{
+      "Population":1991423.49,
+      "urban":3664.75,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":71.91,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":95.68,
+         "Handwashing facility near toilets":72.53
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      }
+   },
+   "Eastern and South-Eastern Asia":{
+      "Population":2334623.01,
+      "urban":5974.93,
+      "National":{
+         "Basic sanitation service":38.33,
+         "Limited sanitation service":61.21,
+         "No sanitation service":0.47,
+         "Handwashing facilities at points of care":47.43,
+         "Handwashing facility near toilets":68.61
+      },
+      "Urban":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":38.28,
+         "Limited sanitation service":61.25,
+         "No sanitation service":0.47,
+         "Handwashing facilities at points of care":46.28,
+         "Handwashing facility near toilets":68.6
+      },
+      "Government":{
+         "Basic sanitation service":38.33,
+         "Limited sanitation service":61.23,
+         "No sanitation service":0.45,
+         "Handwashing facilities at points of care":47.77,
+         "Handwashing facility near toilets":68.61
+      },
+      "Non-Government":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      }
+   },
+   "Europe and Northern America":{
+      "Population":1113783.76,
+      "urban":7720.15,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      }
+   },
+   "Latin America and the Caribbean":{
+      "Population":648120.95,
+      "urban":8082.98,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      }
+   },
+   "Northern Africa and Western Asia":{
+      "Population":517105.56,
+      "urban":6288.23,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      }
+   },
+   "Oceania":{
+      "Population":12141.79,
+      "urban":2291.05,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":95.04,
+         "Handwashing facility near toilets":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      },
+      "Rural":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":95.84,
+         "Handwashing facility near toilets":0.0
+      },
+      "Government":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Government":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":0.0,
+         "Handwashing facilities at points of care":0.0,
+         "Handwashing facility near toilets":0
+      }
+   },
+   "Sub-Saharan Africa":{
+      "Population":1066283.42,
+      "urban":4102.91,
+      "National":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":6.89,
+         "Handwashing facilities at points of care":73.15,
+         "Handwashing facility near toilets":0.0
+      },
+      "Urban":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":2.52,
+         "Handwashing facilities at points of care":80.26,
+         "Handwashing facility near toilets":0
+      },
+      "Rural":{
+         "Basic sanitation service":38.51,
+         "Limited sanitation service":52.46,
+         "No sanitation service":9.03,
+         "Handwashing facilities at points of care":66.69,
+         "Handwashing facility near toilets":52.06
+      },
+      "Hospital":{
+         "Basic sanitation service":0.0,
+         "Limited sanitation service":0.0,
+         "No sanitation service":0.95,
+         "Handwashing facilities at points of care":84.2,
+         "Handwashing facility near toilets":0.0
+      },
+      "Non-Hospital":{
+         "Basic sanitation service":41.94,
+         "Limited sanitation service":49.35,
+         "No sanitation service":8.71,
+         "Handwashing facilities at points of care":69.04,
+         "Handwashing facility near toilets":52.46
+      },
+      "Government":{
+         "Basic sanitation service":42.47,
+         "Limited sanitation service":49.23,
+         "No sanitation service":8.3,
+         "Handwashing facilities at points of care":69.63,
+         "Handwashing facility near toilets":50.28
+      },
+      "Non-Government":{
+         "Basic sanitation service":0,
+         "Limited sanitation service":0,
+         "No sanitation service":3.21,
+         "Handwashing facilities at points of care":80.85,
+         "Handwashing facility near toilets":0
+      }
+   }
+}
