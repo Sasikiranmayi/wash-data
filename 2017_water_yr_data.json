@@ -1,0 +1,4642 @@
+{
+   "Afghanistan":{
+      "National":{
+         "At least basic":67,
+         "Limited":3,
+         "Unimproved":19,
+         "Surface water":11
+      },
+      "Urban":{
+         "At least basic":57,
+         "Limited":4,
+         "Unimproved":24,
+         "Surface water":14
+      },
+      "Rural":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      }
+   },
+   "Albania":{
+      "National":{
+         "At least basic":91,
+         "Limited":5,
+         "Unimproved":4,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":90,
+         "Limited":5,
+         "Unimproved":5,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":92,
+         "Limited":5,
+         "Unimproved":3,
+         "Surface water":1
+      }
+   },
+   "Algeria":{
+      "National":{
+         "At least basic":94,
+         "Limited":5,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":89,
+         "Limited":9,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":95,
+         "Limited":4,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "American Samoa":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Andorra":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Angola":{
+      "National":{
+         "At least basic":56,
+         "Limited":10,
+         "Unimproved":19,
+         "Surface water":15
+      },
+      "Urban":{
+         "At least basic":27,
+         "Limited":9,
+         "Unimproved":23,
+         "Surface water":41
+      },
+      "Rural":{
+         "At least basic":71,
+         "Limited":10,
+         "Unimproved":17,
+         "Surface water":2
+      }
+   },
+   "Anguilla":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      }
+   },
+   "Antigua and Barbuda":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Argentina":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Armenia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Aruba":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Australia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Austria":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Azerbaijan":{
+      "National":{
+         "At least basic":91,
+         "Limited":3,
+         "Unimproved":5,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":82,
+         "Limited":6,
+         "Unimproved":10,
+         "Surface water":2
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Bahamas":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Bahrain":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Bangladesh":{
+      "National":{
+         "At least basic":97,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":97,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Barbados":{
+      "National":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Belarus":{
+      "National":{
+         "At least basic":96,
+         "Limited":3,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":96,
+         "Limited":4,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Belgium":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Belize":{
+      "National":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Benin":{
+      "National":{
+         "At least basic":66,
+         "Limited":10,
+         "Unimproved":20,
+         "Surface water":4
+      },
+      "Urban":{
+         "At least basic":58,
+         "Limited":14,
+         "Unimproved":22,
+         "Surface water":6
+      },
+      "Rural":{
+         "At least basic":76,
+         "Limited":5,
+         "Unimproved":18,
+         "Surface water":1
+      }
+   },
+   "Bermuda":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Bhutan":{
+      "National":{
+         "At least basic":97,
+         "Limited":3,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":97,
+         "Limited":3,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Bolivia (Plurinational State of)":{
+      "National":{
+         "At least basic":93,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":5
+      },
+      "Urban":{
+         "At least basic":78,
+         "Limited":1,
+         "Unimproved":4,
+         "Surface water":18
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Bosnia and Herzegovina":{
+      "National":{
+         "At least basic":96,
+         "Limited":4,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":97,
+         "Limited":3,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":95,
+         "Limited":5,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Botswana":{
+      "National":{
+         "At least basic":90,
+         "Limited":7,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":76,
+         "Limited":18,
+         "Unimproved":2,
+         "Surface water":4
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Brazil":{
+      "National":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":90,
+         "Limited":2,
+         "Unimproved":8,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "British Virgin Islands":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Brunei Darussalam":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Bulgaria":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Burkina Faso":{
+      "National":{
+         "At least basic":48,
+         "Limited":28,
+         "Unimproved":23,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":35,
+         "Limited":33,
+         "Unimproved":31,
+         "Surface water":2
+      },
+      "Rural":{
+         "At least basic":80,
+         "Limited":15,
+         "Unimproved":5,
+         "Surface water":1
+      }
+   },
+   "Burundi":{
+      "National":{
+         "At least basic":61,
+         "Limited":20,
+         "Unimproved":15,
+         "Surface water":5
+      },
+      "Urban":{
+         "At least basic":57,
+         "Limited":21,
+         "Unimproved":17,
+         "Surface water":5
+      },
+      "Rural":{
+         "At least basic":90,
+         "Limited":8,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Cabo Verde":{
+      "National":{
+         "At least basic":87,
+         "Limited":9,
+         "Unimproved":4,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":76,
+         "Limited":13,
+         "Unimproved":11,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":93,
+         "Limited":7,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Cambodia":{
+      "National":{
+         "At least basic":79,
+         "Limited":1,
+         "Unimproved":10,
+         "Surface water":11
+      },
+      "Urban":{
+         "At least basic":73,
+         "Limited":1,
+         "Unimproved":13,
+         "Surface water":14
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Cameroon":{
+      "National":{
+         "At least basic":60,
+         "Limited":16,
+         "Unimproved":16,
+         "Surface water":7
+      },
+      "Urban":{
+         "At least basic":39,
+         "Limited":16,
+         "Unimproved":31,
+         "Surface water":15
+      },
+      "Rural":{
+         "At least basic":77,
+         "Limited":17,
+         "Unimproved":5,
+         "Surface water":1
+      }
+   },
+   "Canada":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Caribbean Netherlands":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Cayman Islands":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Central African Republic":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Chad":{
+      "National":{
+         "At least basic":39,
+         "Limited":17,
+         "Unimproved":39,
+         "Surface water":6
+      },
+      "Urban":{
+         "At least basic":29,
+         "Limited":17,
+         "Unimproved":47,
+         "Surface water":7
+      },
+      "Rural":{
+         "At least basic":70,
+         "Limited":17,
+         "Unimproved":12,
+         "Surface water":1
+      }
+   },
+   "Channel Islands":{
+      "National":{
+         "At least basic":94,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Chile":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "China":{
+      "National":{
+         "At least basic":93,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":86,
+         "Limited":2,
+         "Unimproved":12,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "China, Hong Kong Special Administrative Region":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "China, Macao Special Administrative Region":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Colombia":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":86,
+         "Limited":1,
+         "Unimproved":4,
+         "Surface water":9
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Comoros":{
+      "National":{
+         "At least basic":80,
+         "Limited":11,
+         "Unimproved":8,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":77,
+         "Limited":12,
+         "Unimproved":11,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":88,
+         "Limited":9,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Congo":{
+      "National":{
+         "At least basic":73,
+         "Limited":10,
+         "Unimproved":10,
+         "Surface water":6
+      },
+      "Urban":{
+         "At least basic":46,
+         "Limited":11,
+         "Unimproved":24,
+         "Surface water":19
+      },
+      "Rural":{
+         "At least basic":87,
+         "Limited":10,
+         "Unimproved":3,
+         "Surface water":1
+      }
+   },
+   "Cook Islands":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Costa Rica":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Croatia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Cuba":{
+      "National":{
+         "At least basic":95,
+         "Limited":2,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":90,
+         "Limited":4,
+         "Unimproved":4,
+         "Surface water":2
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Curaçao":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Cyprus":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Czech Republic":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Côte d'Ivoire":{
+      "National":{
+         "At least basic":73,
+         "Limited":6,
+         "Unimproved":15,
+         "Surface water":6
+      },
+      "Urban":{
+         "At least basic":58,
+         "Limited":10,
+         "Unimproved":23,
+         "Surface water":9
+      },
+      "Rural":{
+         "At least basic":88,
+         "Limited":3,
+         "Unimproved":7,
+         "Surface water":2
+      }
+   },
+   "Democratic People's Republic of Korea":{
+      "National":{
+         "At least basic":95,
+         "Limited":1,
+         "Unimproved":5,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":90,
+         "Limited":1,
+         "Unimproved":9,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Democratic Republic of the Congo":{
+      "National":{
+         "At least basic":43,
+         "Limited":12,
+         "Unimproved":36,
+         "Surface water":9
+      },
+      "Urban":{
+         "At least basic":23,
+         "Limited":10,
+         "Unimproved":53,
+         "Surface water":15
+      },
+      "Rural":{
+         "At least basic":69,
+         "Limited":15,
+         "Unimproved":14,
+         "Surface water":2
+      }
+   },
+   "Denmark":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Djibouti":{
+      "National":{
+         "At least basic":76,
+         "Limited":15,
+         "Unimproved":7,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":47,
+         "Limited":12,
+         "Unimproved":31,
+         "Surface water":10
+      },
+      "Rural":{
+         "At least basic":84,
+         "Limited":15,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Dominica":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Dominican Republic":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":90,
+         "Limited":2,
+         "Unimproved":2,
+         "Surface water":6
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Ecuador":{
+      "National":{
+         "At least basic":94,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":83,
+         "Limited":1,
+         "Unimproved":8,
+         "Surface water":8
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Egypt":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "El Salvador":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":92,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":7
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Equatorial Guinea":{
+      "National":{
+         "At least basic":65,
+         "Limited":3,
+         "Unimproved":26,
+         "Surface water":6
+      },
+      "Urban":{
+         "At least basic":31,
+         "Limited":1,
+         "Unimproved":46,
+         "Surface water":22
+      },
+      "Rural":{
+         "At least basic":78,
+         "Limited":4,
+         "Unimproved":18,
+         "Surface water":1
+      }
+   },
+   "Eritrea":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Estonia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Eswatini":{
+      "National":{
+         "At least basic":69,
+         "Limited":9,
+         "Unimproved":9,
+         "Surface water":13
+      },
+      "Urban":{
+         "At least basic":60,
+         "Limited":12,
+         "Unimproved":11,
+         "Surface water":17
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Ethiopia":{
+      "National":{
+         "At least basic":41,
+         "Limited":28,
+         "Unimproved":22,
+         "Surface water":9
+      },
+      "Urban":{
+         "At least basic":31,
+         "Limited":31,
+         "Unimproved":28,
+         "Surface water":11
+      },
+      "Rural":{
+         "At least basic":80,
+         "Limited":17,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Falkland Islands (Malvinas)":{
+      "National":{
+         "At least basic":95,
+         "Limited":1,
+         "Unimproved":5,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":78,
+         "Limited":1,
+         "Unimproved":22,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Faroe Islands":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Fiji":{
+      "National":{
+         "At least basic":94,
+         "Limited":1,
+         "Unimproved":4,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":89,
+         "Limited":1,
+         "Unimproved":7,
+         "Surface water":4
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Finland":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "France":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "French Guiana":{
+      "National":{
+         "At least basic":94,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "French Polynesia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Gabon":{
+      "National":{
+         "At least basic":86,
+         "Limited":8,
+         "Unimproved":3,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":55,
+         "Limited":13,
+         "Unimproved":7,
+         "Surface water":25
+      },
+      "Rural":{
+         "At least basic":90,
+         "Limited":7,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Gambia":{
+      "National":{
+         "At least basic":78,
+         "Limited":9,
+         "Unimproved":13,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":63,
+         "Limited":17,
+         "Unimproved":20,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":87,
+         "Limited":4,
+         "Unimproved":9,
+         "Surface water":1
+      }
+   },
+   "Georgia":{
+      "National":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":4,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Germany":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Ghana":{
+      "National":{
+         "At least basic":81,
+         "Limited":8,
+         "Unimproved":4,
+         "Surface water":6
+      },
+      "Urban":{
+         "At least basic":68,
+         "Limited":13,
+         "Unimproved":6,
+         "Surface water":13
+      },
+      "Rural":{
+         "At least basic":93,
+         "Limited":5,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Gibraltar":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Greece":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Greenland":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Grenada":{
+      "National":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Guadeloupe":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Guam":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Guatemala":{
+      "National":{
+         "At least basic":94,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":90,
+         "Limited":2,
+         "Unimproved":5,
+         "Surface water":3
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Guinea":{
+      "National":{
+         "At least basic":62,
+         "Limited":18,
+         "Unimproved":9,
+         "Surface water":11
+      },
+      "Urban":{
+         "At least basic":49,
+         "Limited":21,
+         "Unimproved":13,
+         "Surface water":18
+      },
+      "Rural":{
+         "At least basic":86,
+         "Limited":12,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Guinea-Bissau":{
+      "National":{
+         "At least basic":67,
+         "Limited":7,
+         "Unimproved":26,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":53,
+         "Limited":7,
+         "Unimproved":39,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":84,
+         "Limited":7,
+         "Unimproved":9,
+         "Surface water":1
+      }
+   },
+   "Guyana":{
+      "National":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":94,
+         "Limited":2,
+         "Unimproved":2,
+         "Surface water":3
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Haiti":{
+      "National":{
+         "At least basic":65,
+         "Limited":10,
+         "Unimproved":25,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":43,
+         "Limited":13,
+         "Unimproved":45,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":85,
+         "Limited":7,
+         "Unimproved":8,
+         "Surface water":1
+      }
+   },
+   "Holy See":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Honduras":{
+      "National":{
+         "At least basic":95,
+         "Limited":1,
+         "Unimproved":5,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":89,
+         "Limited":1,
+         "Unimproved":10,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Hungary":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Iceland":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "India":{
+      "National":{
+         "At least basic":93,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":91,
+         "Limited":1,
+         "Unimproved":7,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      }
+   },
+   "Indonesia":{
+      "National":{
+         "At least basic":89,
+         "Limited":1,
+         "Unimproved":8,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":82,
+         "Limited":2,
+         "Unimproved":13,
+         "Surface water":3
+      },
+      "Rural":{
+         "At least basic":95,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      }
+   },
+   "Iran (Islamic Republic of)":{
+      "National":{
+         "At least basic":95,
+         "Limited":2,
+         "Unimproved":3,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":89,
+         "Limited":4,
+         "Unimproved":7,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Iraq":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":91,
+         "Limited":4,
+         "Unimproved":1,
+         "Surface water":4
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Ireland":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      }
+   },
+   "Isle of Man":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Israel":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Italy":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Jamaica":{
+      "National":{
+         "At least basic":91,
+         "Limited":5,
+         "Unimproved":2,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":85,
+         "Limited":8,
+         "Unimproved":3,
+         "Surface water":4
+      },
+      "Rural":{
+         "At least basic":96,
+         "Limited":3,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Japan":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Jordan":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Kazakhstan":{
+      "National":{
+         "At least basic":96,
+         "Limited":2,
+         "Unimproved":3,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":92,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Kenya":{
+      "National":{
+         "At least basic":59,
+         "Limited":9,
+         "Unimproved":12,
+         "Surface water":20
+      },
+      "Urban":{
+         "At least basic":50,
+         "Limited":11,
+         "Unimproved":15,
+         "Surface water":25
+      },
+      "Rural":{
+         "At least basic":85,
+         "Limited":4,
+         "Unimproved":5,
+         "Surface water":6
+      }
+   },
+   "Kiribati":{
+      "National":{
+         "At least basic":72,
+         "Limited":1,
+         "Unimproved":27,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Kuwait":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Kyrgyzstan":{
+      "National":{
+         "At least basic":87,
+         "Limited":2,
+         "Unimproved":2,
+         "Surface water":9
+      },
+      "Urban":{
+         "At least basic":82,
+         "Limited":2,
+         "Unimproved":3,
+         "Surface water":13
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":2
+      }
+   },
+   "Lao People's Democratic Republic":{
+      "National":{
+         "At least basic":82,
+         "Limited":1,
+         "Unimproved":14,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":76,
+         "Limited":1,
+         "Unimproved":19,
+         "Surface water":4
+      },
+      "Rural":{
+         "At least basic":94,
+         "Limited":1,
+         "Unimproved":5,
+         "Surface water":1
+      }
+   },
+   "Latvia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Lebanon":{
+      "National":{
+         "At least basic":93,
+         "Limited":7,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Lesotho":{
+      "National":{
+         "At least basic":69,
+         "Limited":10,
+         "Unimproved":14,
+         "Surface water":7
+      },
+      "Urban":{
+         "At least basic":59,
+         "Limited":13,
+         "Unimproved":18,
+         "Surface water":10
+      },
+      "Rural":{
+         "At least basic":93,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":1
+      }
+   },
+   "Liberia":{
+      "National":{
+         "At least basic":73,
+         "Limited":8,
+         "Unimproved":6,
+         "Surface water":13
+      },
+      "Urban":{
+         "At least basic":62,
+         "Limited":6,
+         "Unimproved":6,
+         "Surface water":26
+      },
+      "Rural":{
+         "At least basic":84,
+         "Limited":10,
+         "Unimproved":6,
+         "Surface water":1
+      }
+   },
+   "Libya":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Liechtenstein":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Lithuania":{
+      "National":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":93,
+         "Limited":1,
+         "Unimproved":7,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Luxembourg":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Madagascar":{
+      "National":{
+         "At least basic":54,
+         "Limited":1,
+         "Unimproved":32,
+         "Surface water":13
+      },
+      "Urban":{
+         "At least basic":36,
+         "Limited":1,
+         "Unimproved":43,
+         "Surface water":20
+      },
+      "Rural":{
+         "At least basic":86,
+         "Limited":2,
+         "Unimproved":12,
+         "Surface water":1
+      }
+   },
+   "Malawi":{
+      "National":{
+         "At least basic":69,
+         "Limited":20,
+         "Unimproved":9,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":65,
+         "Limited":22,
+         "Unimproved":10,
+         "Surface water":3
+      },
+      "Rural":{
+         "At least basic":86,
+         "Limited":10,
+         "Unimproved":4,
+         "Surface water":1
+      }
+   },
+   "Malaysia":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":89,
+         "Limited":1,
+         "Unimproved":10,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Maldives":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Mali":{
+      "National":{
+         "At least basic":78,
+         "Limited":5,
+         "Unimproved":15,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":68,
+         "Limited":4,
+         "Unimproved":24,
+         "Surface water":3
+      },
+      "Rural":{
+         "At least basic":92,
+         "Limited":5,
+         "Unimproved":3,
+         "Surface water":1
+      }
+   },
+   "Malta":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Marshall Islands":{
+      "National":{
+         "At least basic":88,
+         "Limited":11,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":94,
+         "Limited":5,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":87,
+         "Limited":13,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Martinique":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Mauritania":{
+      "National":{
+         "At least basic":71,
+         "Limited":14,
+         "Unimproved":16,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":50,
+         "Limited":18,
+         "Unimproved":32,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":89,
+         "Limited":9,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Mauritius":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Mayotte":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Mexico":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Micronesia (Federated States of)":{
+      "National":{
+         "At least basic":79,
+         "Limited":1,
+         "Unimproved":21,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Monaco":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Mongolia":{
+      "National":{
+         "At least basic":83,
+         "Limited":2,
+         "Unimproved":8,
+         "Surface water":7
+      },
+      "Urban":{
+         "At least basic":56,
+         "Limited":3,
+         "Unimproved":19,
+         "Surface water":21
+      },
+      "Rural":{
+         "At least basic":96,
+         "Limited":2,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Montenegro":{
+      "National":{
+         "At least basic":97,
+         "Limited":3,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":96,
+         "Limited":4,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Montserrat":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Morocco":{
+      "National":{
+         "At least basic":87,
+         "Limited":4,
+         "Unimproved":6,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":71,
+         "Limited":8,
+         "Unimproved":13,
+         "Surface water":8
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":2,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Mozambique":{
+      "National":{
+         "At least basic":56,
+         "Limited":15,
+         "Unimproved":16,
+         "Surface water":13
+      },
+      "Urban":{
+         "At least basic":40,
+         "Limited":18,
+         "Unimproved":23,
+         "Surface water":19
+      },
+      "Rural":{
+         "At least basic":84,
+         "Limited":9,
+         "Unimproved":5,
+         "Surface water":2
+      }
+   },
+   "Myanmar":{
+      "National":{
+         "At least basic":82,
+         "Limited":1,
+         "Unimproved":9,
+         "Surface water":9
+      },
+      "Urban":{
+         "At least basic":77,
+         "Limited":1,
+         "Unimproved":12,
+         "Surface water":11
+      },
+      "Rural":{
+         "At least basic":93,
+         "Limited":1,
+         "Unimproved":4,
+         "Surface water":3
+      }
+   },
+   "Namibia":{
+      "National":{
+         "At least basic":83,
+         "Limited":7,
+         "Unimproved":4,
+         "Surface water":6
+      },
+      "Urban":{
+         "At least basic":69,
+         "Limited":12,
+         "Unimproved":7,
+         "Surface water":12
+      },
+      "Rural":{
+         "At least basic":96,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Nauru":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Nepal":{
+      "National":{
+         "At least basic":89,
+         "Limited":3,
+         "Unimproved":7,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":89,
+         "Limited":3,
+         "Unimproved":6,
+         "Surface water":2
+      },
+      "Rural":{
+         "At least basic":89,
+         "Limited":3,
+         "Unimproved":7,
+         "Surface water":1
+      }
+   },
+   "Netherlands":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "New Caledonia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "New Zealand":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Nicaragua":{
+      "National":{
+         "At least basic":82,
+         "Limited":2,
+         "Unimproved":14,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":59,
+         "Limited":4,
+         "Unimproved":30,
+         "Surface water":8
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "Niger":{
+      "National":{
+         "At least basic":50,
+         "Limited":15,
+         "Unimproved":31,
+         "Surface water":4
+      },
+      "Urban":{
+         "At least basic":44,
+         "Limited":16,
+         "Unimproved":37,
+         "Surface water":4
+      },
+      "Rural":{
+         "At least basic":84,
+         "Limited":11,
+         "Unimproved":2,
+         "Surface water":2
+      }
+   },
+   "Nigeria":{
+      "National":{
+         "At least basic":71,
+         "Limited":7,
+         "Unimproved":15,
+         "Surface water":7
+      },
+      "Urban":{
+         "At least basic":56,
+         "Limited":8,
+         "Unimproved":23,
+         "Surface water":13
+      },
+      "Rural":{
+         "At least basic":87,
+         "Limited":5,
+         "Unimproved":6,
+         "Surface water":2
+      }
+   },
+   "Niue":{
+      "National":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "North Macedonia":{
+      "National":{
+         "At least basic":93,
+         "Limited":6,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":97,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":91,
+         "Limited":9,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Northern Mariana Islands":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Norway":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Oman":{
+      "National":{
+         "At least basic":92,
+         "Limited":8,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":78,
+         "Limited":22,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":95,
+         "Limited":5,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Pakistan":{
+      "National":{
+         "At least basic":91,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":90,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":3
+      },
+      "Rural":{
+         "At least basic":94,
+         "Limited":1,
+         "Unimproved":5,
+         "Surface water":1
+      }
+   },
+   "Palau":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Panama":{
+      "National":{
+         "At least basic":96,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":93,
+         "Limited":2,
+         "Unimproved":3,
+         "Surface water":2
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Papua New Guinea":{
+      "National":{
+         "At least basic":41,
+         "Limited":2,
+         "Unimproved":6,
+         "Surface water":51
+      },
+      "Urban":{
+         "At least basic":35,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":58
+      },
+      "Rural":{
+         "At least basic":86,
+         "Limited":4,
+         "Unimproved":3,
+         "Surface water":7
+      }
+   },
+   "Paraguay":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Peru":{
+      "National":{
+         "At least basic":91,
+         "Limited":1,
+         "Unimproved":5,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":76,
+         "Limited":2,
+         "Unimproved":12,
+         "Surface water":11
+      },
+      "Rural":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      }
+   },
+   "Philippines":{
+      "National":{
+         "At least basic":94,
+         "Limited":2,
+         "Unimproved":5,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":90,
+         "Limited":3,
+         "Unimproved":7,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Poland":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Portugal":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Puerto Rico":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Qatar":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Republic of Korea":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Republic of Moldova":{
+      "National":{
+         "At least basic":89,
+         "Limited":1,
+         "Unimproved":9,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":83,
+         "Limited":1,
+         "Unimproved":15,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Romania":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Russian Federation":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":93,
+         "Limited":2,
+         "Unimproved":6,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Rwanda":{
+      "National":{
+         "At least basic":58,
+         "Limited":22,
+         "Unimproved":14,
+         "Surface water":6
+      },
+      "Urban":{
+         "At least basic":53,
+         "Limited":24,
+         "Unimproved":16,
+         "Surface water":7
+      },
+      "Rural":{
+         "At least basic":82,
+         "Limited":10,
+         "Unimproved":7,
+         "Surface water":1
+      }
+   },
+   "Réunion":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Saint Helena":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Saint Kitts and Nevis":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Saint Lucia":{
+      "National":{
+         "At least basic":98,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":98,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Saint Pierre and Miquelon":{
+      "National":{
+         "At least basic":91,
+         "Limited":1,
+         "Unimproved":9,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Saint Vincent and the Grenadines":{
+      "National":{
+         "At least basic":95,
+         "Limited":1,
+         "Unimproved":5,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Samoa":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "San Marino":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Sao Tome and Principe":{
+      "National":{
+         "At least basic":84,
+         "Limited":12,
+         "Unimproved":1,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":77,
+         "Limited":11,
+         "Unimproved":2,
+         "Surface water":9
+      },
+      "Rural":{
+         "At least basic":87,
+         "Limited":13,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Saudi Arabia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Senegal":{
+      "National":{
+         "At least basic":81,
+         "Limited":3,
+         "Unimproved":16,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":70,
+         "Limited":4,
+         "Unimproved":25,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":92,
+         "Limited":1,
+         "Unimproved":7,
+         "Surface water":1
+      }
+   },
+   "Serbia":{
+      "National":{
+         "At least basic":86,
+         "Limited":14,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":88,
+         "Limited":11,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":83,
+         "Limited":16,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Seychelles":{
+      "National":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":4
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Sierra Leone":{
+      "National":{
+         "At least basic":61,
+         "Limited":9,
+         "Unimproved":16,
+         "Surface water":14
+      },
+      "Urban":{
+         "At least basic":50,
+         "Limited":6,
+         "Unimproved":23,
+         "Surface water":21
+      },
+      "Rural":{
+         "At least basic":76,
+         "Limited":14,
+         "Unimproved":7,
+         "Surface water":3
+      }
+   },
+   "Singapore":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Sint Maarten (Dutch part)":{
+      "National":{
+         "At least basic":95,
+         "Limited":1,
+         "Unimproved":5,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Slovakia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Slovenia":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Solomon Islands":{
+      "National":{
+         "At least basic":68,
+         "Limited":6,
+         "Unimproved":15,
+         "Surface water":12
+      },
+      "Urban":{
+         "At least basic":61,
+         "Limited":6,
+         "Unimproved":18,
+         "Surface water":15
+      },
+      "Rural":{
+         "At least basic":91,
+         "Limited":4,
+         "Unimproved":4,
+         "Surface water":1
+      }
+   },
+   "Somalia":{
+      "National":{
+         "At least basic":52,
+         "Limited":31,
+         "Unimproved":14,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":28,
+         "Limited":44,
+         "Unimproved":23,
+         "Surface water":5
+      },
+      "Rural":{
+         "At least basic":83,
+         "Limited":15,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   },
+   "South Africa":{
+      "National":{
+         "At least basic":93,
+         "Limited":3,
+         "Unimproved":2,
+         "Surface water":3
+      },
+      "Urban":{
+         "At least basic":81,
+         "Limited":7,
+         "Unimproved":5,
+         "Surface water":8
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "South Sudan":{
+      "National":{
+         "At least basic":41,
+         "Limited":34,
+         "Unimproved":17,
+         "Surface water":9
+      },
+      "Urban":{
+         "At least basic":35,
+         "Limited":37,
+         "Unimproved":18,
+         "Surface water":10
+      },
+      "Rural":{
+         "At least basic":65,
+         "Limited":20,
+         "Unimproved":12,
+         "Surface water":3
+      }
+   },
+   "Spain":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Sri Lanka":{
+      "National":{
+         "At least basic":89,
+         "Limited":3,
+         "Unimproved":6,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":88,
+         "Limited":4,
+         "Unimproved":7,
+         "Surface water":2
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Sudan":{
+      "National":{
+         "At least basic":60,
+         "Limited":27,
+         "Unimproved":4,
+         "Surface water":9
+      },
+      "Urban":{
+         "At least basic":53,
+         "Limited":27,
+         "Unimproved":6,
+         "Surface water":14
+      },
+      "Rural":{
+         "At least basic":74,
+         "Limited":25,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Suriname":{
+      "National":{
+         "At least basic":95,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":90,
+         "Limited":2,
+         "Unimproved":8,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Sweden":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Switzerland":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Syrian Arab Republic":{
+      "National":{
+         "At least basic":97,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":95,
+         "Limited":4,
+         "Unimproved":1,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Tajikistan":{
+      "National":{
+         "At least basic":81,
+         "Limited":2,
+         "Unimproved":2,
+         "Surface water":14
+      },
+      "Urban":{
+         "At least basic":76,
+         "Limited":3,
+         "Unimproved":3,
+         "Surface water":19
+      },
+      "Rural":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":2
+      }
+   },
+   "Thailand":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Timor-Leste":{
+      "National":{
+         "At least basic":78,
+         "Limited":2,
+         "Unimproved":15,
+         "Surface water":4
+      },
+      "Urban":{
+         "At least basic":70,
+         "Limited":3,
+         "Unimproved":21,
+         "Surface water":6
+      },
+      "Rural":{
+         "At least basic":98,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Togo":{
+      "National":{
+         "At least basic":65,
+         "Limited":6,
+         "Unimproved":16,
+         "Surface water":13
+      },
+      "Urban":{
+         "At least basic":48,
+         "Limited":8,
+         "Unimproved":22,
+         "Surface water":22
+      },
+      "Rural":{
+         "At least basic":89,
+         "Limited":3,
+         "Unimproved":7,
+         "Surface water":1
+      }
+   },
+   "Tokelau":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Tonga":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Trinidad and Tobago":{
+      "National":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Tunisia":{
+      "National":{
+         "At least basic":96,
+         "Limited":2,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":89,
+         "Limited":6,
+         "Unimproved":6,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Turkey":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Turkmenistan":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":98,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Turks and Caicos Islands":{
+      "National":{
+         "At least basic":94,
+         "Limited":1,
+         "Unimproved":6,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Tuvalu":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Uganda":{
+      "National":{
+         "At least basic":49,
+         "Limited":32,
+         "Unimproved":12,
+         "Surface water":7
+      },
+      "Urban":{
+         "At least basic":41,
+         "Limited":36,
+         "Unimproved":14,
+         "Surface water":8
+      },
+      "Rural":{
+         "At least basic":75,
+         "Limited":18,
+         "Unimproved":6,
+         "Surface water":1
+      }
+   },
+   "Ukraine":{
+      "National":{
+         "At least basic":94,
+         "Limited":6,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":91,
+         "Limited":8,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "United Arab Emirates":{
+      "National":{
+         "At least basic":98,
+         "Limited":2,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "United Kingdom":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "United Republic of Tanzania":{
+      "National":{
+         "At least basic":57,
+         "Limited":11,
+         "Unimproved":18,
+         "Surface water":14
+      },
+      "Urban":{
+         "At least basic":43,
+         "Limited":14,
+         "Unimproved":24,
+         "Surface water":20
+      },
+      "Rural":{
+         "At least basic":86,
+         "Limited":7,
+         "Unimproved":5,
+         "Surface water":3
+      }
+   },
+   "United States Virgin Islands":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "United States of America":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Uruguay":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":95,
+         "Limited":5,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Uzbekistan":{
+      "National":{
+         "At least basic":98,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":2
+      },
+      "Urban":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":4
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Vanuatu":{
+      "National":{
+         "At least basic":91,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":8
+      },
+      "Urban":{
+         "At least basic":88,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":10
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Venezuela (Bolivarian Republic of)":{
+      "National":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":2,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Viet Nam":{
+      "National":{
+         "At least basic":95,
+         "Limited":1,
+         "Unimproved":5,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":93,
+         "Limited":1,
+         "Unimproved":7,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Wallis and Futuna Islands":{
+      "National":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Urban":{
+         "At least basic":99,
+         "Limited":1,
+         "Unimproved":1,
+         "Surface water":1
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "West Bank and Gaza Strip":{
+      "National":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":96,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":97,
+         "Limited":1,
+         "Unimproved":3,
+         "Surface water":0
+      }
+   },
+   "Western Sahara":{
+      "National":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Urban":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      },
+      "Rural":{
+         "At least basic":0,
+         "Limited":0,
+         "Unimproved":0,
+         "Surface water":0
+      }
+   },
+   "Yemen":{
+      "National":{
+         "At least basic":63,
+         "Limited":29,
+         "Unimproved":4,
+         "Surface water":4
+      },
+      "Urban":{
+         "At least basic":55,
+         "Limited":33,
+         "Unimproved":6,
+         "Surface water":7
+      },
+      "Rural":{
+         "At least basic":79,
+         "Limited":21,
+         "Unimproved":1,
+         "Surface water":1
+      }
+   },
+   "Zambia":{
+      "National":{
+         "At least basic":60,
+         "Limited":8,
+         "Unimproved":24,
+         "Surface water":9
+      },
+      "Urban":{
+         "At least basic":42,
+         "Limited":9,
+         "Unimproved":35,
+         "Surface water":14
+      },
+      "Rural":{
+         "At least basic":84,
+         "Limited":6,
+         "Unimproved":9,
+         "Surface water":1
+      }
+   },
+   "Zimbabwe":{
+      "National":{
+         "At least basic":64,
+         "Limited":13,
+         "Unimproved":16,
+         "Surface water":7
+      },
+      "Urban":{
+         "At least basic":50,
+         "Limited":18,
+         "Unimproved":22,
+         "Surface water":10
+      },
+      "Rural":{
+         "At least basic":94,
+         "Limited":4,
+         "Unimproved":2,
+         "Surface water":1
+      }
+   }
+}
