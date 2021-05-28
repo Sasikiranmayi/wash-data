@@ -1,0 +1,90 @@
+#map path {
+  stroke: none;
+  stroke-width: 0.25px;
+  fill: #6C757D;
+}
+
+#map rect {
+  fill: #e9ecef;
+}
+
+#map circle {
+  stroke: none;
+}
+
+#map div.tooltip {
+  position: absolute;
+  text-align: left;
+  /*color: lightgreen;*/
+  padding: 3px;
+  font: 12px sans-serif;
+  background: black;
+  border: 0px;
+  border-radius: 3px;
+  pointer-events: none;
+}
+
+#map span.tip-name {
+  color: white;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  min-height: 28px;
+  padding: 8px 12px;
+  font: 12px sans-serif;
+  background: lightgray;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+#sel_div {
+  position: absolute;
+  top: 180px;
+  left: 75%;
+}
+
+#submit_map {
+  position: relative;
+  top: 30px;
+  left: 20%;
+}
+
+#sec_drop {
+  position: absolute;
+  top: 150px;
+  left: 75%;
+}
+
+#sec_drop_yr {
+  position: absolute;
+  top: 150px;
+  left: 70%;
+}
+
+#references {
+  position: absolute;
+  top: 80px;
+}
+
+.d_button {
+  display: inline-block;
+  padding: 0.3em 1.2em;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 2em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #FFFFFF;
+  background-color: #4eb5f1;
+  text-align: center;
+  transition: all 0.2s;
+}
+
+.d_button:hover {
+  background-color: #4095c6;
+}
